@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -O2 -Wl,--dependency-file=CMakeFiles/cache_simulator.dir/link.d CMakeFiles/cache_simulator.dir/sim.cpp.o -o cache_simulator
