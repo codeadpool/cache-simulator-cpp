@@ -1,4 +1,0 @@
-/home/shadow-monarch/projects/cache-simulator-cpp/build/CMakeFiles/cache_simulator.dir
-/home/shadow-monarch/projects/cache-simulator-cpp/build/CMakeFiles/rebuild.dir
-/home/shadow-monarch/projects/cache-simulator-cpp/build/CMakeFiles/edit_cache.dir
-/home/shadow-monarch/projects/cache-simulator-cpp/build/CMakeFiles/rebuild_cache.dir
